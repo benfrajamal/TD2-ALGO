@@ -19,7 +19,7 @@ Ce dépôt GitHub contient la résolution en Python des exercices du Travaux Dir
 ![Résultat Exercice 2](captures/resultat_ex2.png)
 
 ### Exercice 3 : Recherche Taboue (TSP)
-![Résultat Tabou Ex3](captures/resultat1_ex3.png)
+![Résultat Tabou Ex3](captures/resultat2_ex3.png)
 
 ### Exercice 3 : Recuit Simulé (TSP)
-![Résultat Recuit Ex3](captures/resultat2_ex3.png)
+![Résultat Recuit Ex3](captures/resultat1_ex3.png)
