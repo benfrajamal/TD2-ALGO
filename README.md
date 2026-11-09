@@ -1,6 +1,6 @@
 # Rendu TD N°2 - Recherche Opérationnelle
 
-**Étudiante :** Amal Ben Fraj  
+**Étudiante :** Amal Ben Fradj  
 **Filière :** Licence en Sciences de l'Informatique - Faculté des Sciences de Sfax  
 
 ## Contenu du projet
